@@ -49,11 +49,11 @@
 \subsection*{Prediction}
 	From our knowledge of physics we know that charge travels from high potential to low potential. The \emph{voltage source} always has a fixed potential, while the Sphere has zero potential. But after the connection from the voltage source to the sphere is made, charge travels from the voltage source to the sphere until the sphere's potential equals the voltage source's. Because we know the capacitance and final potential of the sphere, we can calculate the amount of charge on the sphere Using the the formula $C = \frac{Q}{V}$ 
 	\begin{eqnarray}
-	C & = & 4\pi\epsilon_0R = 4 \pi *8.85*10^-12 *.045 = 5*10^-12\\
-	Q &= & V * C = \mathbf{750} * 5 * 10^-12 = 3.75 \ nC \\
-	Q &= & V * C = \mathbf{1500} * 5 * 10^-12 = 7.5 \ nC \\
-	Q &= & V * C = \mathbf{3000} * 5 * 10^-12 = 15 \ nC \\
-	Q &= & V * C = \mathbf{6000} * 5 * 10^-12 = 30 \ nC 
+	C & = & 4\pi\epsilon_0R = 4 \pi *8.85*10^{-12} *.045 = 5*10^-12\\
+	Q &= & V * C = \mathbf{750} * 5 * 10^{-12} = 3.75 \ nC \\
+	Q &= & V * C = \mathbf{1500} * 5 * 10^{-12} = 7.5 \ nC \\
+	Q &= & V * C = \mathbf{3000} * 5 * 10^{-12} = 15 \ nC \\
+	Q &= & V * C = \mathbf{6000} * 5 * 10^{-12} = 30 \ nC 
 	\end{eqnarray}
 	making a table we get
 	\begin{quote}
@@ -83,6 +83,14 @@
 	\hline
 	\end{tabular}
 	\end{quote}
-	
+\subsection*{Analysis}
+The measured charge was a lot lower than the predicted. Here are possible explanations
+\begin{enumerate}
+	\item 
+	We did not hold the connection form the battery to the sphere long enough. Capacitors take time to charge up. We held it for about 2 seconds. Not sure if that is long enough?
+	\item Charge was lost to the Air. Electrostatic studies are difficult in humid environments because objects discharge quickly through multiple paths 
+	\item We did not calculate the capacitance correctly. We calculated the capacitance to be $5 * 10^{-12}$ When we measured the radius the error was probably $\pm .02 \ meters$, which is quite a lot in our experiment.
+\end{enumerate}
+The predicted results are a perfect linear relationship, but the observed results seem to form a logarithmic relationship between voltage and charge. That is very interesting.Perhaps the air finds easier to absorbs high levels of charge? The only conclusion we can make is more voltage $\rightarrow$ more charge.
 
 \end{document}
