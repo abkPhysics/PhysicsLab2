@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1374295073 "writeup.tex" "writeup.pdf" "writeup" 1374295073
+["pdflatex"] 1374295510 "writeup.tex" "writeup.pdf" "writeup" 1374332213
   "/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty" 1303254447 7324 11d14f318d865f420e692d4e6c9c18c3 ""
@@ -22,8 +22,8 @@
   "/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty" 1335995445 22417 c74ff4af6a1aa2b65d1924020edbbe11 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def" 1306616590 55368 3c8a0d99822330f2dfabc0dfb09ce897 ""
   "diagram1.pdf" 1374257662 7812 a376e3bc24364ab3127678a2dd9cce2b ""
-  "writeup.aux" 1374295073 123 dedbd45e92913953472a6d7faaa785c6 ""
-  "writeup.tex" 1374295072 4813 a300cc4ed2eef78fd97a4cc5020f496e ""
+  "writeup.aux" 1374295511 123 dedbd45e92913953472a6d7faaa785c6 ""
+  "writeup.tex" 1374332046 4818 9a7c8662068e0aa689652f13ad0bb73c ""
   (generated)
   "writeup.log"
   "writeup.pdf"
