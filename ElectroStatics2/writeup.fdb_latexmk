@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1374337949 "writeup.tex" "writeup.pdf" "writeup" 1374338251
+["pdflatex"] 1374343618 "writeup.tex" "writeup.pdf" "writeup" 1374344231
   "/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty" 1303254447 7324 11d14f318d865f420e692d4e6c9c18c3 ""
@@ -24,8 +24,8 @@
   "ResultsGraph-eps-converted-to.pdf" 1374337733 82894 1de7f6fbb771c0e97c02b7cf4001155b ""
   "ResultsGraph.eps" 1374337727 261699 c79d74d84cdbc5c291d1af2abf6dfd2e ""
   "diagram1.pdf" 1374257662 7812 a376e3bc24364ab3127678a2dd9cce2b ""
-  "writeup.aux" 1374337950 371 9eab3bd6c35e1147481a9b7275244573 ""
-  "writeup.tex" 1374338250 5933 f65b5e7bb1406cf008e5e8b4db93c55a ""
+  "writeup.aux" 1374343619 371 9eab3bd6c35e1147481a9b7275244573 ""
+  "writeup.tex" 1374343618 5958 def9581d6af09e3b318e425932d2b4df ""
   (generated)
   "ResultsGraph-eps-converted-to.pdf"
   "writeup.log"
