@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1374343618 "writeup.tex" "writeup.pdf" "writeup" 1374344231
+["pdflatex"] 1374438761 "writeup.tex" "writeup.pdf" "writeup" 1374438761
   "/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty" 1303254447 7324 11d14f318d865f420e692d4e6c9c18c3 ""
@@ -11,6 +11,8 @@
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty" 1335995445 19987 01cb2f3c1d21e5f05711b7fd50b17f2a ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls" 1254151887 20571 b8bd218bf2e18b4f5817ee643cd9c515 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/base/size12.clo" 1254151887 9053 a28d9b3c915d12545f3d5e7c4986be20 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/caption/caption.sty" 1331852109 64617 3e595e89cb20089970940faf5347edb4 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/caption/caption3.sty" 1331852109 59928 5bdbc848cc19ace34fb8f06975f2d198 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty" 1254151804 14183 42a8fc761b806986eef292369afc2988 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty" 1156702488 7882 3bd78469d444e8d494e27cfd7ca92719 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty" 1156702488 2266 7054435e4584a41cf53b0a7ca624d0cb ""
@@ -24,8 +26,8 @@
   "ResultsGraph-eps-converted-to.pdf" 1374337733 82894 1de7f6fbb771c0e97c02b7cf4001155b ""
   "ResultsGraph.eps" 1374337727 261699 c79d74d84cdbc5c291d1af2abf6dfd2e ""
   "diagram1.pdf" 1374257662 7812 a376e3bc24364ab3127678a2dd9cce2b ""
-  "writeup.aux" 1374343619 371 9eab3bd6c35e1147481a9b7275244573 ""
-  "writeup.tex" 1374343618 5958 def9581d6af09e3b318e425932d2b4df ""
+  "writeup.aux" 1374438761 130 c3bfcbaf7bd3aabd3e746730bc36319b ""
+  "writeup.tex" 1374438761 6018 1d39cbcadd88b725330af5689ec575c0 ""
   (generated)
   "ResultsGraph-eps-converted-to.pdf"
   "writeup.log"

@@ -29,9 +29,6 @@ print fit.intercept_
 
 ion()
 clf()
-
-
-
 scatter(volts,y,c = 'r')
 scatter(volts,chargesExpected,c = 'b')
 px = np.arange(0.1,np.max(volts) + .1, .1)
