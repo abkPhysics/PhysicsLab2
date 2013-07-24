@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1374438761 "writeup.tex" "writeup.pdf" "writeup" 1374542401
+["pdflatex"] 1374689053 "writeup.tex" "writeup.pdf" "writeup" 1374689054
   "/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty" 1303254447 7324 11d14f318d865f420e692d4e6c9c18c3 ""
@@ -23,13 +23,13 @@
   "/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/grfext.sty" 1335995445 7075 bd0c34fbf1ae8fd1debd2a554e41b2d5 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty" 1335995445 22417 c74ff4af6a1aa2b65d1924020edbbe11 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def" 1306616590 55368 3c8a0d99822330f2dfabc0dfb09ce897 ""
-  "ResultsGraph-eps-converted-to.pdf" 1374337733 82894 1de7f6fbb771c0e97c02b7cf4001155b ""
-  "ResultsGraph.eps" 1374337727 261699 c79d74d84cdbc5c291d1af2abf6dfd2e ""
-  "diagram1.pdf" 1374257662 7812 a376e3bc24364ab3127678a2dd9cce2b ""
-  "writeup.aux" 1374438761 130 c3bfcbaf7bd3aabd3e746730bc36319b ""
-  "writeup.tex" 1374524190 6018 1d39cbcadd88b725330af5689ec575c0 ""
+  "figOne.pdf" 1374539015 14271 67762a715e1abe927dd76d4770cfad9c ""
+  "graph1-eps-converted-to.pdf" 1374544332 51345 bde52d87d1586eea9c67f4307ad83303 ""
+  "graph1.eps" 1374544256 163799 5d0a8d7f4fc0b447550b301937b0745a ""
+  "writeup.aux" 1374689054 253 fc72876f3af587bd4c63fa662de543c0 ""
+  "writeup.tex" 1374689053 2597 48fbf56357863961c83bd60cc4f91b71 ""
   (generated)
-  "ResultsGraph-eps-converted-to.pdf"
+  "graph1-eps-converted-to.pdf"
   "writeup.log"
   "writeup.pdf"
   "writeup.aux"
