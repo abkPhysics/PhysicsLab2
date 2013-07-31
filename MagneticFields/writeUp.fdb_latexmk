@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1375243344 "writeUp.tex" "writeUp.pdf" "writeUp" 1375243345
+["pdflatex"] 1375292002 "writeUp.tex" "writeUp.pdf" "writeUp" 1375292002
   "/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty" 1303254447 7324 11d14f318d865f420e692d4e6c9c18c3 ""
@@ -32,8 +32,8 @@
   "plot1.pdf" 1375234808 8243 f77df553247df20994b31f031d92d1e5 ""
   "plot2.pdf" 1375238619 8980 7073dca4add033411f907aea279c8aae ""
   "plot3.pdf" 1375240384 9319 3748691621d2bc801b03620b807b775a ""
-  "writeUp.aux" 1375243345 296 93e6e15f041dd138694ad2d8e2d6962e ""
-  "writeUp.tex" 1375243344 2511 273dd6493ab9e18156ac585186b8a023 ""
+  "writeUp.aux" 1375292002 296 93e6e15f041dd138694ad2d8e2d6962e ""
+  "writeUp.tex" 1375243363 2512 654653e92dae173223408d634fae8ca9 ""
   (generated)
   "writeUp.pdf"
   "writeUp.aux"
