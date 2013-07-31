@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 JUL 2013 13:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 JUL 2013 15:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -247,42 +247,43 @@ Overfull \hbox (89.81792pt too wide) in paragraph at lines 59--60
 <plot3.pdf, id=50, 566.51996pt x 422.176pt>
 File: plot3.pdf Graphic file (type pdf)
  <use plot3.pdf>
-Package pdftex.def Info: plot3.pdf used on input line 91.
+Package pdftex.def Info: plot3.pdf used on input line 92.
 (pdftex.def)             Requested size: 481.54424pt x 358.85129pt.
 
-Overfull \hbox (91.54424pt too wide) in paragraph at lines 91--92
+Overfull \hbox (91.54424pt too wide) in paragraph at lines 92--93
  [][] 
  []
 
-File: plot3.pdf Graphic file (type pdf)
-<use plot3.pdf>
-Package pdftex.def Info: plot3.pdf used on input line 97.
-(pdftex.def)             Requested size: 481.54424pt x 358.85129pt.
+<plot4.pdf, id=51, 566.61246pt x 422.176pt>
+File: plot4.pdf Graphic file (type pdf)
+ <use plot4.pdf>
+Package pdftex.def Info: plot4.pdf used on input line 98.
+(pdftex.def)             Requested size: 481.62286pt x 358.85129pt.
 
-Overfull \hbox (91.54424pt too wide) in paragraph at lines 97--98
+Overfull \hbox (91.62286pt too wide) in paragraph at lines 98--99
  [][] 
  []
 
-[4] [5 <./plot3.pdf>] [6] [7] (./writeUp.aux) ) 
+[4] [5 <./plot3.pdf>] [6 <./plot4.pdf>] [7] (./writeUp.aux) ) 
 Here is how much of TeX's memory you used:
- 3110 strings out of 493488
- 46738 string characters out of 3141326
+ 3115 strings out of 493488
+ 46802 string characters out of 3141326
  108290 words of memory out of 3000000
- 6397 multiletter control sequences out of 15000+200000
+ 6401 multiletter control sequences out of 15000+200000
  8261 words of font info for 30 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,7n,38p,452b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2012/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2012/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2012/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2012/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2012/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on writeUp.pdf (7 pages, 82325 bytes).
+ 38i,7n,38p,471b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texliv
+e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive
+/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/
+2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/20
+12/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2012
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2012/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on writeUp.pdf (7 pages, 90103 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 119 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
